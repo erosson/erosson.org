@@ -1,0 +1,25 @@
+{
+  "name": "erosson.org",
+  "version": "1.0.0",
+  "author": "Evan <github@erosson.org>",
+  "packageManager": "yarn@1.22.19",
+  "license": "GPL-3.0",
+  "private": true,
+  "source": "src/index.html",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build",
+    "postbuild": "mkdir -p public && cp -r public/. dist",
+    "start:prod": "yarn build && serve dist",
+    "deploy": "bash ./scripts/deploy"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.36",
+    "@fortawesome/free-brands-svg-icons": "^5.15.4",
+    "@fortawesome/free-solid-svg-icons": "^5.15.4",
+    "parcel": "^2.12.0",
+    "serve": "^14.2.1",
+    "sharp": "^0.31.1"
+  }
+}
