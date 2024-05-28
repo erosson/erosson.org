@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/erosson
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://erosson.org
+  * I am erosson (https://keybase.io/erosson) on keybase.
+  * I have a public key ASDQggQRr7gfVdVnEdOvn6be7eYl9lHv_elsZo9OoqN0qAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120d0820411afb81f55d56711d3af9fa6deede625f651effde96c668f4ea2a374a80a",
+      "host": "keybase.io",
+      "kid": "0120d0820411afb81f55d56711d3af9fa6deede625f651effde96c668f4ea2a374a80a",
+      "uid": "c980c7b9a7aad6e369c86922c3b54119",
+      "username": "erosson"
+    },
+    "merkle_root": {
+      "ctime": 1534889959,
+      "hash": "8c78507e17f59fa29df486e119ae78c96d6f7e3075e6b750162103c49cc9792a26e1492503fdc4529e660c6e86cbe45109547e756d73e22cd6498d490119765a",
+      "hash_meta": "5431f7b9c534583e02499579972da549a3b5498b0d4b29f4b92204b624be2961",
+      "seqno": 3495903
+    },
+    "service": {
+      "entropy": "5Yt585xPIxapF2zyJOvEwYsb",
+      "hostname": "erosson.org",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.6.0"
+  },
+  "ctime": 1534889972,
+  "expire_in": 504576000,
+  "prev": "5161089b91e713f23f4d9014fd25c264e391622c5390c88e0f9d9bef8c3ed4d4",
+  "seqno": 45,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg0IIEEa+4H1XVZxHTr5+m3u3mJfZR7/3pbGaPTqKjdKgKp3BheWxvYWTESpcCLcQgUWEIm5HnE/I/TZAU/SXCZOORYixTkMiOD52b74w+1NTEIHbiRBhssec8k23k9DUZQC9X9zkNtxa1TN1a3eiIuvd4AgHCo3NpZ8RAbTiKUrRoASlwqAmsgrPdD4Cpr6EIRtl5ZoQs37USZJ4Z+VpOd9WkRvz9PMK3jZY2BJXAG+G71V5CKBMEp3B/C6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIATp1S0Q3TqAK0tnIgu9em/2HFd6UMsUbsUvxDZaSPA/o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/erosson
+
+==================================================================
